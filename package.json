@@ -28,7 +28,7 @@
     "child_process": "^1.0.2",
     "express": "^4.17.1",
     "fb-chat-api": "^10.3.13",
-    "fb-tools": "^2.0.11",
+    "fb-tools": "",
     "fetch": "^1.1.0",
     "form-data": "^4.0.0",
     "fs-extra": "^10.0.0",
